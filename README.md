@@ -11,8 +11,9 @@ pass : 123456
 Follow instruction from help menu once login to follow setup.
 
 Powered by https://digitallive24.com
-#FEATURES
-Our software empowers you to:
+
+ # FEATURES
+===Our software empowers you to:===
 * Utilize a robust template builder through intuitive drag-and-drop functionality, enabling the creation of diverse layouts with feature-rich components.
 * Access ready-made templates suited for various industries such as Restaurants, Hospitals, Hospitality, Fitness, Healthcare, Education, Salons, Offices, Corporates, public places, Residents, and more.
 * Implement a Token, Visitor, and Queue Management System for digital signage screens.
