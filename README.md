@@ -35,4 +35,7 @@ Powered by https://digitallive24.com
 * Connect with databases to display specific content (API available).
 * Integrate with 3rd Party PoS systems such as Clover, Square, Toast, etc.
 
+--Contact us--
+#whats app: +91 70199 10793
+#email: info@digitallive24.com
 
